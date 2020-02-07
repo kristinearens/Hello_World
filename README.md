@@ -9,30 +9,33 @@
 
 ## Project Title
 
-Baby Name Trends 
+Hello World Sample 
 
 ## Description
 
-Evaluate data file to determine trends in baby names.
+Practice using GitHub by creating a sample repository
 
 ## How to Run Program 
 
 Explain here how you would run the program and what files need to be available. 
 ```text
-RSample_BabyNames/
+Hello_World/
 └── 
     │── README.md
-    │── babynames.csv
-    │── hw.R
+    │── pgmname1.R
+    │── filename1.csv
     │── examples.html
    
 ```
 
-
 ## Files Used 
 
-Datafile was pulled from the US Government website.
-Data contains baby names from social security card applications
+Did you use any datafiles?  
+List filenames
+Where you got them? 
+What is contained within the data files?
+Datafile considerations 
+URL links to files - example below
 [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
 
