@@ -9,7 +9,7 @@
 
 ## Project Title
 
-**Hello World Sample** 
+*Hello World Sample* 
 
 ## Description
 
@@ -41,7 +41,7 @@ Hello_World/
 
 ## Additional Documentation
 
-No additional documentation at this time 
+No additional documentation at this time.  Here is some **BOLD** text 
 
 
 ## Versioning
