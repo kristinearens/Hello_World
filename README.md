@@ -13,7 +13,7 @@
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 
 ## How to Run Program 
 
