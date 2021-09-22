@@ -42,6 +42,7 @@ Hello_World/
 ## Additional Documentation
 
 No additional documentation at this time.  Here is some **BOLD** text 
+<span style="color:red"> *some RED markdown text*</span>
 
 
 ## Versioning
