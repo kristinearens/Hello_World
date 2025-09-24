@@ -38,7 +38,7 @@ Hello_World/
 - What is contained within the data files?
 - Datafile considerations 
 - URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+[Lottery - Powerball Winning Numbers since 2010](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
 
   
 ## Additional Documentation
